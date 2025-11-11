@@ -1,24 +1,36 @@
 {
   "Top": [
     "https://feeds.bbci.co.uk/news/rss.xml",
-    "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-    "https://www.npr.org/rss/rss.php?id=1001"
+    "https://www.npr.org/rss/rss.php?id=1001",
+    "https://www.aljazeera.com/xml/rss/all.xml"
   ],
   "Tech": [
     "https://techcrunch.com/feed/",
+    "https://www.theverge.com/rss/index.xml",
     "https://www.wired.com/feed/rss",
     "https://www.engadget.com/rss.xml"
   ],
   "Sports": [
+    "https://www.espn.com/espn/rss/news",
     "https://feeds.bbci.co.uk/sport/rss.xml",
-    "https://www.espn.com/espn/rss/news"
+    "https://www.skysports.com/rss/12040"
   ],
-  "Business": [
-    "https://feeds.reuters.com/reuters/businessNews",
-    "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+  "Science": [
+    "https://www.sciencedaily.com/rss/top/science.xml",
+    "https://phys.org/rss-feed/top-news/"
+  ],
+  "Health": [
+    "https://www.who.int/feeds/entity/mediacentre/news/en/rss.xml",
+    "https://www.medicalnewstoday.com/rss"
+  ],
+  "India": [
+    "https://www.thehindu.com/news/national/feeder/default.rss",
+    "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "https://feeds.feedburner.com/ndtvnews-india-news"
   ],
   "Entertainment": [
     "https://variety.com/feed/",
-    "https://www.ign.com/articles?format=rss"
+    "https://www.hollywoodreporter.com/t/news/feed/",
+    "https://www.rollingstone.com/music/music-news/feed/"
   ]
 }
