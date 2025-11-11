@@ -1,5 +1,58 @@
 {
-  "Top": ["https://feeds.bbci.co.uk/news/rss.xml"],
-  "Tech": ["https://techcrunch.com/feed/"],
-  "Sports": ["https://www.espn.com/espn/rss/news"]
+  "Top": [
+    "https://feeds.bbci.co.uk/news/rss.xml",
+    "https://rss.cnn.com/rss/edition.rss",
+    "https://www.reuters.com/rssFeed/topNews",
+    "https://www.aljazeera.com/xml/rss/all.xml",
+    "https://www.npr.org/rss/rss.php?id=1001"
+  ],
+  "Tech": [
+    "https://techcrunch.com/feed/",
+    "https://www.theverge.com/rss/index.xml",
+    "https://www.wired.com/feed/rss",
+    "https://www.engadget.com/rss.xml",
+    "https://www.cnet.com/rss/news/"
+  ],
+  "Sports": [
+    "https://www.espn.com/espn/rss/news",
+    "https://feeds.bbci.co.uk/sport/rss.xml",
+    "https://www.skysports.com/rss/12040",
+    "https://www.goal.com/en/feeds/news",
+    "https://www.tennis.com/rss.xml"
+  ],
+  "Business": [
+    "https://feeds.reuters.com/reuters/businessNews",
+    "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+    "https://www.bloomberg.com/feed/podcast/etf-report.xml",
+    "https://www.forbes.com/business/feed2/",
+    "https://www.moneycontrol.com/rss/latestnews.xml"
+  ],
+  "Entertainment": [
+    "https://variety.com/feed/",
+    "https://www.hollywoodreporter.com/t/news/feed/",
+    "https://www.ign.com/articles?format=rss",
+    "https://www.billboard.com/feed/",
+    "https://www.rollingstone.com/music/music-news/feed/"
+  ],
+  "India": [
+    "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "https://feeds.feedburner.com/ndtvnews-india-news",
+    "https://www.thehindu.com/news/national/feeder/default.rss",
+    "https://www.livemint.com/rss/news",
+    "https://www.hindustantimes.com/rss/topnews/rssfeed.xml"
+  ],
+  "Science": [
+    "https://www.sciencemag.org/rss/news_current.xml",
+    "https://www.nature.com/subjects/news/rss",
+    "https://www.sciencedaily.com/rss/top/science.xml",
+    "https://www.newscientist.com/feed/home/",
+    "https://phys.org/rss-feed/top-news/"
+  ],
+  "Health": [
+    "https://www.who.int/feeds/entity/mediacentre/news/en/rss.xml",
+    "https://www.medicalnewstoday.com/rss",
+    "https://www.nih.gov/news-events/news-releases/rss.xml",
+    "https://www.webmd.com/rss/rss.aspx",
+    "https://www.healthline.com/rss"
+  ]
 }
