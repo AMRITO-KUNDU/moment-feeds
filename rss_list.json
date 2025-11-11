@@ -1,0 +1,5 @@
+{
+  "Top": ["https://feeds.bbci.co.uk/news/rss.xml"],
+  "Tech": ["https://techcrunch.com/feed/"],
+  "Sports": ["https://www.espn.com/espn/rss/news"]
+}
